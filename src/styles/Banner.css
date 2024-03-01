@@ -1,0 +1,11 @@
+.Banner1{
+    /* border: 1px solid; */
+    height: 745px;
+    width: 100%;
+    background-image: url(../images/imageforback.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bnr{
+    padding-top: 180px;
+}
